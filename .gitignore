@@ -1,0 +1,6 @@
+.venv/
+.env
+data/raw/geo/
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
