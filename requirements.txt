@@ -1,0 +1,17 @@
+   pandas
+   requests
+   sqlalchemy
+   psycopg[binary]
+   python-dotenv
+   tabulate
+   matplotlib
+   seaborn
+   geopandas
+   folium
+   mapclassify
+   scikit-learn
+   scipy
+   statsmodels
+   jupyter
+   ipykernel
+   python-dateutil
