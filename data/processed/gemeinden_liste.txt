@@ -1,0 +1,187 @@
+bfs_nr|name|ort_gefunden|kanton_geo|hoehe_m|n_treffer|kt_ok|korrigiert
+5091|Ascona|Ascona|Kanton Tessin|202.0|1|True|False
+5113|Locarno|Locarno|Kanton Tessin|206.0|2|True|False
+5120|Muralto|Muralto|Kanton Tessin|221.0|1|True|False
+5002|Bellinzona|Bellinzona|Kanton Tessin|230.0|1|True|False
+5250|Chiasso|Chiasso|Kanton Tessin|237.0|1|True|False
+4258|Rheinfelden|Rheinfelden, Aargau|Kanton Aargau|277.0|1|True|False
+2701|Basel|Basel|Kanton Basel-Stadt|279.0|2|True|False
+5192|Lugano|Lugano|Kanton Tessin|284.0|3|True|False
+2831|Pratteln|Pratteln|Kanton Basel-Landschaft|291.0|1|True|False
+5210|Paradiso|Paradiso TI|Kanton Tessin|296.0|1|True|False
+2829|Liestal|Liestal|Kanton Basel-Landschaft|327.0|1|True|False
+5254|Mendrisio|Mendrisio|Kanton Tessin|338.0|1|True|False
+5642|Morges|Morges|Kanton Waadt|380.0|2|True|False
+4021|Baden|Baden AG|Kanton Aargau|381.0|2|True|False
+5890|Vevey|Vevey|Kanton Waadt|388.0|1|True|False
+4001|Aarau|Aarau|Kanton Aargau|389.0|1|True|False
+5613|Bourg-en-Lavaux|Cully VD||392.0|0|False|True
+6621|Genève|Genf|Kanton Genf|400.0|1|True|False
+5724|Nyon|Nyon|Kanton Waadt|401.0|1|True|False
+4201|Lenzburg|Lenzburg|Kanton Aargau|402.0|1|True|False
+5886|Montreux|Montreux|Kanton Waadt|403.0|1|True|False
+2939|Schaffhausen|Schaffhausen|Kanton Schaffhausen|403.0|3|True|False
+2581|Olten|Olten|Kanton Solothurn|406.0|1|True|False
+4401|Arbon|Arbon|Kanton Thurgau|408.0|1|True|False
+3340|Rapperswil-Jona|Rapperswil SG||408.0|0|False|True
+1322|Freienbach|Freienbach|Kanton Schwyz|410.0|1|True|False
+4671|Kreuzlingen|Kreuzlingen|Kanton Thurgau|414.0|1|True|False
+295|Horgen|Horgen|Kanton Zürich|415.0|8|True|False
+4566|Frauenfeld|Frauenfeld|Kanton Thurgau|417.0|1|True|False
+6217|Saint-Maurice|Saint-Maurice VS|Kanton Wallis|419.0|1|True|False
+6628|Lancy|Lancy|Kanton Genf|421.0|1|True|False
+6800|Porrentruy|Porrentruy|Kanton Jura|425.0|2|True|False
+1711|Zug|Zug|Kanton Zug|425.0|4|True|False
+3298|Walenstadt|Walenstadt|Kanton St. Gallen|426.0|2|True|False
+261|Zürich|Zürich|Kanton Zürich|429.0|10|True|False
+6711|Delémont|Delémont|Kanton Jura|432.0|1|True|False
+2401|Egerkingen|Egerkingen|Kanton Solothurn|433.0|1|True|False
+1501|Beckenried|Beckenried|Kanton Nidwalden|434.0|1|True|False
+371|Biel/Bienne|Biel|Kanton Bern|434.0|1|True|False
+2275|Murten|Murten|Kanton Freiburg|435.0|1|True|False
+191|Dübendorf|Dübendorf|Kanton Zürich|436.0|10|True|False
+1061|Luzern|Luzern|Kanton Luzern|437.0|3|True|False
+1630|Glarus Nord|Näfels||437.0|0|False|True
+1364|Ingenbohl|Ingenbohl|Kanton Schwyz|438.0|1|True|False
+5938|Yverdon-les-Bains|Yverdon-les-Bains|Kanton Waadt|438.0|1|True|False
+66|Opfikon|Opfikon|Kanton Zürich|438.0|1|True|False
+62|Kloten|Kloten|Kanton Zürich|439.0|10|True|False
+1069|Weggis|Weggis|Kanton Luzern|439.0|1|True|False
+1331|Küssnacht (SZ)|Küssnacht SZ|Kanton Schwyz|440.0|1|True|False
+2601|Solothurn|Solothurn|Kanton Solothurn|440.0|5|True|False
+6643|Vernier|Vernier|Kanton Genf|440.0|1|True|False
+6458|Neuchâtel|Neuenburg|Kanton Neuenburg|441.0|2|True|False
+4289|Zofingen|Zofingen|Kanton Aargau|441.0|1|True|False
+230|Winterthur|Winterthur|Kanton Zürich|441.0|3|True|False
+6630|Meyrin|Meyrin|Kanton Genf|445.0|1|True|False
+3251|Altstätten|Altstätten SG|Kanton St. Gallen|447.0|1|True|False
+3271|Buchs (SG)|Buchs SG|Kanton St. Gallen|447.0|10|True|False
+1068|Vitznau|Vitznau|Kanton Luzern|448.0|1|True|False
+293|Wädenswil|Wädenswil|Kanton Zürich|450.0|8|True|False
+5409|Ollon|Ollon|Kanton Waadt|452.0|2|True|False
+3216|Rorschacherberg|Rorschacherberg|Kanton St. Gallen|453.0|1|True|False
+5586|Lausanne|Lausanne|Kanton Waadt|453.0|2|True|False
+2546|Grenchen|Grenchen|Kanton Solothurn|454.0|6|True|False
+3292|Flums|Flums|Kanton St. Gallen|456.0|9|True|False
+6513|Laténa|Marin||456.0|0|False|True
+783|Hasliberg|Hasliberg|Kanton Zürich|464.0|7|True|False
+1024|Emmen|Emmen|Kanton Luzern|464.0|5|True|False
+198|Uster|Uster|Kanton Zürich|469.0|7|True|False
+5238|Monteceneri|Rivera TI||472.0|0|False|True
+5236|Collina d'Oro|Montagnola||473.0|0|False|True
+1407|Sarnen|Sarnen|Kanton Obwalden|473.0|1|True|False
+979|Herzogenbuchsee|Herzogenbuchsee|Kanton Bern|474.0|1|True|False
+6136|Martigny|Martigny-Ville|Kanton Wallis|475.0|4|True|False
+1063|Meggen|Meggen|Kanton Luzern|476.0|2|True|False
+1059|Kriens|Kriens|Kanton Luzern|476.0|1|True|False
+1406|Sachseln|Sachseln|Kanton Obwalden|477.0|1|True|False
+329|Langenthal|Langenthal|Kanton Bern|478.0|2|True|False
+3342|Eschenbach (SG)|Eschenbach SG|Kanton St. Gallen|480.0|2|True|False
+6266|Sion|Flughafen Sitten|Kanton Wallis|483.0|1|True|False
+1103|Sursee|Sursee|Kanton Luzern|503.0|1|True|False
+3953|Maienfeld|Maienfeld GR|Kanton Graubünden|506.0|2|True|False
+3291|Bad Ragaz|Bad Ragaz|Kanton St. Gallen|512.0|1|True|False
+1372|Schwyz|Schwyz|Kanton Schwyz|521.0|1|True|False
+6248|Sierre|Siders|Kanton Wallis|528.0|1|True|False
+700|Moutier (BE)|Moutier|Kanton Jura|535.0|1|False|False
+404|Burgdorf|Burgdorf|Kanton Bern|535.0|1|True|False
+6831|Moutier (JU)|Moutier|Kanton Jura|535.0|1|True|False
+3408|Uzwil|Uzwil|Kanton St. Gallen|542.0|1|True|False
+351|Bern|Bern|Kanton Bern|549.0|10|True|False
+942|Thun|Thun|Kanton Bern|560.0|6|True|False
+573|Brienz (BE)|Brienz|Kanton Bern|563.0|4|True|False
+3427|Wil (SG)|Wil SG|Kanton St. Gallen|569.0|10|True|False
+593|Unterseen|Unterseen|Kanton Bern|570.0|1|True|False
+581|Interlaken|Interlaken|Kanton Bern|570.0|2|True|False
+3295|Quarten|Quarten|Kanton St. Gallen|574.0|1|True|False
+587|Matten bei Interlaken|Matten bei Interlaken|Kanton Bern|576.0|1|True|False
+355|Köniz|Köniz|Kanton Bern|577.0|2|True|False
+768|Spiez|Spiez|Kanton Bern|595.0|1|True|False
+594|Wilderswil|Wilderswil|Kanton Bern|598.0|1|True|False
+785|Meiringen|Meiringen|Kanton Bern|599.0|2|True|False
+3901|Chur|Chur|Kanton Graubünden|601.0|6|True|False
+2196|Fribourg|Freiburg|Kanton Freiburg|610.0|1|True|False
+784|Innertkirchen|Innertkirchen|Kanton Bern|627.0|1|True|False
+5892|Blonay - Saint-Légier|Blonay||629.0|0|False|True
+1366|Morschach|Morschach|Kanton Schwyz|648.0|1|True|False
+6297|Visp|Visp|Kanton Wallis|653.0|2|True|False
+3396|Neckertal|Brunnadern||659.0|0|False|True
+902|Langnau im Emmental|Langnau im Emmental|Kanton Bern|677.0|1|True|False
+6002|Brig-Glis|Brig||680.0|0|False|True
+3203|St. Gallen|St. Gallen|Kanton St. Gallen|684.0|3|True|False
+1321|Feusisberg|Feusisberg|Kanton Schwyz|696.0|1|True|False
+6808|Clos du Doubs|Clos du Doubs|Kanton Bern|702.0|1|True|False
+3619|Ilanz/Glion|Ilanz||705.0|0|False|True
+567|Reichenbach im Kandertal|Reichenbach im Kandertal|Kanton Bern|712.0|1|True|False
+1709|Unterägeri|Unterägeri|Kanton Zug|727.0|1|True|False
+2121|Haut-Intyamon|Albeuve||759.0|0|False|True
+1504|Emmetten|Emmetten|Kanton Nidwalden|761.0|1|True|False
+2125|Bulle|Bulle|Kanton Freiburg|771.0|2|True|False
+3101|Appenzell|Appenzell|Kanton Appenzell Innerrhoden|783.0|6|True|False
+3032|Heiden|Heiden AR|Kanton Appenzell Ausserrhoden|786.0|6|True|False
+584|Lauterbrunnen|Lauterbrunnen|Kanton Bern|787.0|3|True|False
+3002|Hundwil|Hundwil|Kanton Appenzell Ausserrhoden|792.0|2|True|False
+938|Sigriswil|Sigriswil|Kanton Bern|797.0|2|True|False
+2135|Gruyères|Gruyères|Kanton Freiburg|805.0|2|True|False
+762|Diemtigen|Diemtigen|Kanton Bern|814.0|1|True|False
+6417|La Grande Béroche|Saint-Aubin-Sauges||821.0|0|False|True
+3024|Teufen (AR)|Teufen AR|Kanton Appenzell Ausserrhoden|842.0|5|True|False
+2299|Plaffeien|Plaffeien|Kanton Freiburg|854.0|1|True|False
+562|Aeschi bei Spiez|Aeschi bei Spiez|Kanton Bern|860.0|1|True|False
+1301|Einsiedeln|Einsiedeln|Kanton Schwyz|882.0|1|True|False
+6034|Orsières|Orsières|Kanton Wallis|897.0|1|True|False
+3102|Gonten|Gonten|Kanton Appenzell Innerrhoden|900.0|4|True|False
+3311|Amden|Amden|Kanton St. Gallen|903.0|1|True|False
+3022|Gais|Gais AR|Kanton Appenzell Ausserrhoden|924.0|3|True|False
+906|Schangnau|Schangnau|Kanton Bern|930.0|1|True|False
+1209|Gurtnellen|Gurtnellen|Kanton Uri|932.0|1|True|False
+5841|Château-d'Oex|Château-d'Oex|Kanton Waadt|962.0|1|True|False
+1631|Glarus Süd|Elm GL||977.0|0|False|True
+6757|Saignelégier|Saignelégier|Kanton Jura|985.0|1|True|False
+6421|La Chaux-de-Fonds|La Chaux-de-Fonds|Kanton Neuenburg|995.0|1|True|False
+6024|Nendaz|Basse-Nendaz|Kanton Wallis|1004.0|1|True|False
+843|Saanen|Saanen|Kanton Bern|1010.0|4|True|False
+3561|Poschiavo|Poschiavo|Kanton Graubünden|1010.0|1|True|False
+3575|Laax|Laax|Kanton Graubünden|1011.0|2|True|False
+1402|Engelberg|Engelberg|Kanton Obwalden|1015.0|5|True|False
+5872|Le Chenit|Le Chenit|Kanton Waadt|1015.0|1|True|False
+576|Grindelwald|Grindelwald|Kanton Bern|1047.0|1|True|False
+6151|Champéry|Champéry|Kanton Wallis|1048.0|1|True|False
+792|Lenk|Lenk im Simmental|Kanton Bern|1067.0|2|True|False
+3732|Flims|Flims|Kanton Graubünden|1085.0|4|True|False
+3359|Wildhaus-Alt St. Johann|Wildhaus SG||1090.0|0|False|True
+3792|Bregaglia|Soglio GR||1099.0|0|False|True
+5552|Bullet|Bullet VD|Kanton Waadt|1146.0|1|True|False
+565|Kandersteg|Kandersteg|Kanton Bern|1172.0|1|True|False
+571|Beatenberg|Beatenberg|Kanton Bern|1172.0|2|True|False
+5411|Ormont-Dessus|Les Diablerets||1181.0|0|False|True
+3871|Klosters|Klosters|Kanton Graubünden|1200.0|3|True|False
+3543|Surses|Savognin||1219.0|0|False|True
+3762|Scuol|Scuol|Kanton Graubünden|1250.0|1|True|False
+3603|Vals|Vals|Kanton Graubünden|1252.0|6|True|False
+3618|Lumnezia|Villa||1253.0|0|False|True
+3847|Val Müstair|Müstair||1256.0|0|False|True
+5407|Leysin|Leysin|Kanton Waadt|1262.0|2|True|False
+3981|Breil/Brigels|Brigels|Kanton Graubünden|1281.0|1|True|False
+561|Adelboden|Adelboden|Kanton Bern|1328.0|2|True|False
+6083|Evolène|Evolène|Kanton Wallis|1340.0|1|True|False
+3506|Vaz/Obervaz|Obervaz|Kanton Graubünden|1355.0|1|True|False
+6077|Goms|Münster-Geschinen||1382.0|0|False|True
+6111|Leukerbad|Leukerbad|Kanton Wallis|1383.0|1|True|False
+3986|Tujetsch|Sedrun||1402.0|0|False|True
+1202|Andermatt|Andermatt|Kanton Uri|1441.0|1|True|False
+3746|Zernez|Zernez|Kanton Graubünden|1477.0|1|True|False
+6037|Val de Bagnes|Verbier||1515.0|0|False|True
+6253|Crans-Montana|Crans-Montana|Kanton Wallis|1547.0|1|True|False
+3851|Davos|Davos|Kanton Graubünden|1560.0|10|True|False
+6291|Saas-Grund|Saas-Grund|Kanton Wallis|1564.0|1|True|False
+6252|Anniviers|Grimentz||1580.0|0|False|True
+6300|Zermatt|Zermatt|Kanton Wallis|1608.0|2|True|False
+3786|Samedan|Samedan|Kanton Graubünden|1716.0|2|True|False
+3782|Celerina/Schlarigna|Celerina|Kanton Graubünden|1727.0|1|True|False
+3921|Arosa|Arosa|Kanton Graubünden|1775.0|1|True|False
+6290|Saas-Fee|Saas-Fee|Kanton Wallis|1800.0|1|True|False
+3784|Pontresina|Pontresina|Kanton Graubünden|1822.0|1|True|False
+3752|Samnaun|Samnaun|Kanton Graubünden|1841.0|2|True|False
+3787|St. Moritz|Sankt Moritz|Kanton Graubünden|1845.0|3|True|False
+3714|Rheinwald|Rheinwaldhorn|Kanton Graubünden|3402.0|1|True|False
