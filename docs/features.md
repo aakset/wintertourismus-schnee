@@ -1,6 +1,6 @@
 # Variablen (Features)
 
-Übersicht aller Variablen für die Modelle. Analyseeinheit: Gemeinde × Monat (Wintermonate), 2013–2026.
+Übersicht aller Variablen für die Modelle. Analyseeinheit: Gemeinde × Monat (Wintermonate), 2013–2026, für die 45 Wintersportorte (`ausgewaehlt` in `data/processed/gemeinden.csv`: mindestens 1/3 der Logiernächte von Dezember bis März).
 
 **Ebene:** *Gemeinde × Monat* = unterscheidet sich zwischen Orten und über die Zeit. *Gemeinde* = fest pro Ort. *Monat* = gleich für alle Gemeinden, ändert sich nur über die Zeit. Monatsvariablen erklären also Schwankungen zwischen Monaten und Jahren, nicht Unterschiede zwischen Orten.
 
@@ -19,7 +19,7 @@ Zimmerauslastung statt Logiernächte: Sie hängt nicht von der Grösse des Ortes
 | Neuschnee | Schneefall im Monat, als Abweichung vom langjährigen Mittel der Gemeinde | cm | Gemeinde × Monat | Open-Meteo Historical Weather API, ERA5 (1.5) | **+** mehr Schnee als üblich → bessere Pistenverhältnisse → höhere Auslastung (H1), in tiefen Gemeinden stärker (H2) | offen |
 | Temperatur | Monatsmittel der Lufttemperatur | °C | Gemeinde × Monat | Open-Meteo, ERA5 (1.5) | **−** wärmer → weniger Schnee, kürzere Saison → tiefere Auslastung, v.a. in tiefen Gemeinden (H3) | offen |
 | Sonnenstunden | Sonnenscheindauer im Monat | h | Gemeinde × Monat | Open-Meteo, ERA5 (1.5) | **+** schönes Wetter zieht Tagesgäste und Kurzaufenthalte an | offen |
-| `hoehe_m`, `hoehenklasse` | Höhe des Ortes; Klassen tief < 1000 m, mittel 1000–1500 m, hoch > 1500 m | m ü. M. / Kategorie | Gemeinde | Open-Meteo Geocoding API, manuell korrigiert (1.4) | Moderator: Schnee-Effekt in tiefen Gemeinden grösser (H2) | ✓ |
+| `hoehe_m`, `hoehenklasse`, `hoehenklasse_1000` | Höhe des Ortes; Klassen tief < 1200 m, mittel 1200–1500 m, hoch > 1500 m (13 / 19 / 13 Orte). `hoehenklasse_1000`: gleiche Einteilung mit Grenze 1000 m als Robustheitscheck (nur 3 tiefe Orte) | m ü. M. / Kategorie | Gemeinde | Open-Meteo Geocoding API, manuell korrigiert (1.4) | Moderator: Schnee-Effekt in tiefen Gemeinden grösser (H2) | ✓ |
 | `zimmer`, `betten` | Hotelkapazität | Anzahl | Gemeinde × Monat | BFS HESTA, Tabelle 201 (1.2) | **−/?** grosse Orte haben mehr Konkurrenz und Stadthotellerie; vor allem Kontrollvariable | ✓ |
 | `anteil_ausland` | Anteil Logiernächte ausländischer Gäste | 0–1 | Gemeinde × Monat | BFS HESTA, Tabelle 101 (1.3) | Teilfrage (a): Orte mit vielen ausländischen Gästen reagieren schwächer auf kurzfristigen Schnee (Buchung lange im Voraus), aber stärker auf EUR/CHF | ✓ |
 | `eur_chf` | Wechselkurs, CHF pro 1 EUR, Monatsmittel | CHF | Monat | SNB-Datenportal, Cube `devkum`, D0 = M0, D1 = EUR1 (1.7) | **+** höherer Kurs → Schweiz für Gäste aus dem Euroraum günstiger → mehr ausländische Gäste → höhere Auslastung (H4) | ✓ |

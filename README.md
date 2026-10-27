@@ -4,7 +4,9 @@ Data Analytics, Gruppenprojekt HS 2026, ZHAW
 
 ## Forschungsfrage
 
-Wie stark beeinflussen Schneefall und Temperatur die Zimmerauslastung von Schweizer Hotels im Winter, und reagieren tief gelegene Tourismusgemeinden (unter 1000 m ü. M.) stärker als hoch gelegene (über 1500 m ü. M.)?
+Wie stark beeinflussen Schneefall und Temperatur die Zimmerauslastung von Schweizer Hotels im Winter, und reagieren tief gelegene Wintersportorte (unter 1200 m ü. M.) stärker als hoch gelegene (über 1500 m ü. M.)?
+
+**Auswahl und Höhenklassen:** Untersucht werden die 45 Wintersportorte unter den 186 Gemeinden der BFS-Statistik, also Gemeinden mit mindestens 1/3 der Logiernächte von Dezember bis März (2013–2025, ohne 2020 und 2021). Höhenklassen: tief unter 1200 m (13 Orte), mittel 1200–1500 m (19), hoch über 1500 m (13). Die Grenze liegt bei 1200 statt 1000 m, weil nur 3 Wintersportorte unter 1000 m liegen. Damit wäre kein Vergleich möglich. Die Einteilung mit 1000 m wird als Robustheitscheck mitgeführt (`hoehenklasse_1000`).
 
 Die Frage geht über eine reine Vorhersage hinaus: Im Zentrum steht der Vergleich der Höhenklassen, also die Frage, *für wen* der Schnee wichtiger ist.
 
