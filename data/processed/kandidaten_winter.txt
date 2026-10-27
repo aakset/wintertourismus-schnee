@@ -1,0 +1,69 @@
+bfs_nr|name|hoehe_m|hoehenklasse|winteranteil
+4258|Rheinfelden|277.0|tief|0.3
+2701|Basel|279.0|tief|0.28
+4021|Baden|381.0|tief|0.28
+6621|Genève|400.0|tief|0.29
+6628|Lancy|421.0|tief|0.29
+191|Dübendorf|436.0|tief|0.29
+62|Kloten|439.0|tief|0.28
+6643|Vernier|440.0|tief|0.29
+6630|Meyrin|445.0|tief|0.3
+2546|Grenchen|454.0|tief|0.29
+979|Herzogenbuchsee|474.0|tief|0.29
+3291|Bad Ragaz|512.0|tief|0.3
+700|Moutier (BE)|535.0|tief|0.28
+3408|Uzwil|542.0|tief|0.31
+3295|Quarten|574.0|tief|0.37
+3901|Chur|601.0|tief|0.29
+1366|Morschach|648.0|tief|0.32
+3619|Ilanz/Glion|705.0|tief|0.32
+3002|Hundwil|792.0|tief|0.29
+762|Diemtigen|814.0|tief|0.3
+906|Schangnau|930.0|tief|0.28
+5841|Château-d'Oex|962.0|tief|0.34
+1631|Glarus Süd|977.0|tief|0.39
+3575|Laax|1011.0|mittel|0.61
+1402|Engelberg|1015.0|mittel|0.35
+576|Grindelwald|1047.0|mittel|0.32
+6151|Champéry|1048.0|mittel|0.52
+843|Saanen|1055.0|mittel|0.46
+792|Lenk|1067.0|mittel|0.47
+3732|Flims|1085.0|mittel|0.5
+3359|Wildhaus-Alt St. Johann|1090.0|mittel|0.4
+3792|Bregaglia|1099.0|mittel|0.36
+5552|Bullet|1146.0|mittel|0.31
+783|Hasliberg|1165.0|mittel|0.38
+565|Kandersteg|1172.0|mittel|0.29
+5411|Ormont-Dessus|1181.0|mittel|0.43
+3871|Klosters|1200.0|mittel|0.52
+3543|Surses|1219.0|mittel|0.51
+5409|Ollon|1250.0|mittel|0.51
+3762|Scuol|1250.0|mittel|0.42
+3603|Vals|1252.0|mittel|0.46
+3618|Lumnezia|1253.0|mittel|0.53
+5407|Leysin|1262.0|mittel|0.45
+584|Lauterbrunnen|1272.0|mittel|0.38
+3981|Breil/Brigels|1281.0|mittel|0.49
+561|Adelboden|1328.0|mittel|0.44
+6083|Evolène|1340.0|mittel|0.37
+6024|Nendaz|1350.0|mittel|0.53
+6077|Goms|1382.0|mittel|0.49
+6111|Leukerbad|1383.0|mittel|0.41
+3292|Flums|1400.0|mittel|0.58
+3986|Tujetsch|1402.0|mittel|0.53
+1202|Andermatt|1441.0|mittel|0.45
+3714|Rheinwald|1462.0|mittel|0.34
+3506|Vaz/Obervaz|1473.0|mittel|0.54
+6037|Val de Bagnes|1515.0|hoch|0.6
+6253|Crans-Montana|1547.0|hoch|0.49
+3851|Davos|1560.0|hoch|0.5
+6291|Saas-Grund|1564.0|hoch|0.41
+6252|Anniviers|1580.0|hoch|0.52
+6300|Zermatt|1608.0|hoch|0.44
+3786|Samedan|1716.0|hoch|0.41
+3782|Celerina/Schlarigna|1727.0|hoch|0.51
+3921|Arosa|1775.0|hoch|0.67
+6290|Saas-Fee|1800.0|hoch|0.49
+3784|Pontresina|1822.0|hoch|0.46
+3752|Samnaun|1841.0|hoch|0.63
+3787|St. Moritz|1845.0|hoch|0.51

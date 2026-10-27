@@ -1,187 +1,187 @@
-bfs_nr,name,kanton,lat,lon,hoehe_m,hoehenklasse,ort_gefunden,korrigiert
-62,Kloten,Kanton Zürich,47.45152,8.58491,439.0,tief,Kloten,False
-66,Opfikon,Kanton Zürich,47.43169,8.57588,438.0,tief,Opfikon,False
-191,Dübendorf,Kanton Zürich,47.39724,8.61872,436.0,tief,Dübendorf,False
-198,Uster,Kanton Zürich,47.34713,8.72091,469.0,tief,Uster,False
-230,Winterthur,Kanton Zürich,47.50564,8.72413,441.0,tief,Winterthur,False
-261,Zürich,Kanton Zürich,47.36667,8.55,429.0,tief,Zürich,False
-293,Wädenswil,Kanton Zürich,47.22683,8.6687,450.0,tief,Wädenswil,False
-295,Horgen,Kanton Zürich,47.25983,8.59778,415.0,tief,Horgen,False
-329,Langenthal,Kanton Bern,47.21526,7.79607,478.0,tief,Langenthal,False
-351,Bern,Kanton Bern,46.94809,7.44744,549.0,tief,Bern,False
-355,Köniz,Kanton Bern,46.92436,7.41457,577.0,tief,Köniz,False
-371,Biel/Bienne,Kanton Bern,47.13713,7.24608,434.0,tief,Biel,False
-404,Burgdorf,Kanton Bern,47.05901,7.62786,535.0,tief,Burgdorf,False
-561,Adelboden,Kanton Bern,46.49142,7.56031,1328.0,mittel,Adelboden,False
-562,Aeschi bei Spiez,Kanton Bern,46.65848,7.6965,860.0,tief,Aeschi bei Spiez,False
-565,Kandersteg,Kanton Bern,46.49467,7.67326,1172.0,mittel,Kandersteg,False
-567,Reichenbach im Kandertal,Kanton Bern,46.62541,7.69362,712.0,tief,Reichenbach im Kandertal,False
-571,Beatenberg,Kanton Bern,46.69896,7.79428,1172.0,mittel,Beatenberg,False
-573,Brienz (BE),Kanton Bern,46.7545,8.03847,563.0,tief,Brienz,False
-576,Grindelwald,Kanton Bern,46.62396,8.03601,1047.0,mittel,Grindelwald,False
-581,Interlaken,Kanton Bern,46.68387,7.86638,570.0,tief,Interlaken,False
-584,Lauterbrunnen,Kanton Bern,46.60599,7.92013,1272.0,mittel,Wengen,True
-587,Matten bei Interlaken,Kanton Bern,46.67833,7.86889,576.0,tief,Matten bei Interlaken,False
-593,Unterseen,Kanton Bern,46.6853,7.84722,570.0,tief,Unterseen,False
-594,Wilderswil,Kanton Bern,46.66369,7.86175,598.0,tief,Wilderswil,False
-700,Moutier (BE),Kanton Jura,47.27818,7.36951,535.0,tief,Moutier,False
-762,Diemtigen,Kanton Bern,46.64928,7.56477,814.0,tief,Diemtigen,False
-768,Spiez,Kanton Bern,46.68473,7.69111,595.0,tief,Spiez,False
-783,Hasliberg,Kanton Zürich,46.74466,8.19535,1165.0,mittel,Hasliberg,True
-784,Innertkirchen,Kanton Bern,46.70467,8.22876,627.0,tief,Innertkirchen,False
-785,Meiringen,Kanton Bern,46.72709,8.1872,599.0,tief,Meiringen,False
-792,Lenk,Kanton Bern,46.45826,7.44298,1067.0,mittel,Lenk im Simmental,False
-843,Saanen,Kanton Bern,46.47215,7.28685,1055.0,mittel,Gstaad,True
-902,Langnau im Emmental,Kanton Bern,46.93936,7.78738,677.0,tief,Langnau im Emmental,False
-906,Schangnau,Kanton Bern,46.82784,7.85987,930.0,tief,Schangnau,False
-938,Sigriswil,Kanton Bern,46.71656,7.71335,797.0,tief,Sigriswil,False
-942,Thun,Kanton Bern,46.75118,7.62166,560.0,tief,Thun,False
-979,Herzogenbuchsee,Kanton Bern,47.18795,7.7062,474.0,tief,Herzogenbuchsee,False
-1024,Emmen,Kanton Luzern,47.07819,8.27331,464.0,tief,Emmen,False
-1059,Kriens,Kanton Luzern,47.0311,8.28547,476.0,tief,Kriens,False
-1061,Luzern,Kanton Luzern,47.05048,8.30635,437.0,tief,Luzern,False
-1063,Meggen,Kanton Luzern,47.04691,8.37467,476.0,tief,Meggen,False
-1068,Vitznau,Kanton Luzern,47.01014,8.4842,448.0,tief,Vitznau,False
-1069,Weggis,Kanton Luzern,47.03208,8.43219,439.0,tief,Weggis,False
-1103,Sursee,Kanton Luzern,47.17088,8.11113,503.0,tief,Sursee,False
-1202,Andermatt,Kanton Uri,46.63565,8.59388,1441.0,mittel,Andermatt,False
-1209,Gurtnellen,Kanton Uri,46.73814,8.62843,932.0,tief,Gurtnellen,False
-1301,Einsiedeln,Kanton Schwyz,47.12849,8.74735,882.0,tief,Einsiedeln,False
-1321,Feusisberg,Kanton Schwyz,47.18707,8.74724,696.0,tief,Feusisberg,False
-1322,Freienbach,Kanton Schwyz,47.20534,8.75842,410.0,tief,Freienbach,False
-1331,Küssnacht (SZ),Kanton Schwyz,47.08557,8.44206,440.0,tief,Küssnacht SZ,False
-1364,Ingenbohl,Kanton Schwyz,46.9988,8.61529,438.0,tief,Ingenbohl,False
-1366,Morschach,Kanton Schwyz,46.98271,8.61826,648.0,tief,Morschach,False
-1372,Schwyz,Kanton Schwyz,47.02076,8.65414,521.0,tief,Schwyz,False
-1402,Engelberg,Kanton Obwalden,46.82107,8.40133,1015.0,mittel,Engelberg,False
-1406,Sachseln,Kanton Obwalden,46.86718,8.23344,477.0,tief,Sachseln,False
-1407,Sarnen,Kanton Obwalden,46.89611,8.24531,473.0,tief,Sarnen,False
-1501,Beckenried,Kanton Nidwalden,46.96653,8.47575,434.0,tief,Beckenried,False
-1504,Emmetten,Kanton Nidwalden,46.95658,8.51467,761.0,tief,Emmetten,False
-1630,Glarus Nord,,47.09775,9.06361,437.0,tief,Näfels,True
-1631,Glarus Süd,,46.91902,9.17242,977.0,tief,Elm GL,True
-1709,Unterägeri,Kanton Zug,47.13645,8.5853,727.0,tief,Unterägeri,False
-1711,Zug,Kanton Zug,47.17242,8.51745,425.0,tief,Zug,False
-2121,Haut-Intyamon,,46.51727,7.0567,759.0,tief,Albeuve,True
-2125,Bulle,Kanton Freiburg,46.61797,7.0569,771.0,tief,Bulle,False
-2135,Gruyères,Kanton Freiburg,46.58338,7.08207,805.0,tief,Gruyères,False
-2196,Fribourg,Kanton Freiburg,46.80237,7.15128,610.0,tief,Freiburg,False
-2275,Murten,Kanton Freiburg,46.92827,7.11715,435.0,tief,Murten,False
-2299,Plaffeien,Kanton Freiburg,46.68186,7.29445,1026.0,mittel,Schwarzsee,True
-2401,Egerkingen,Kanton Solothurn,47.31957,7.78424,433.0,tief,Egerkingen,False
-2546,Grenchen,Kanton Solothurn,47.1921,7.39586,454.0,tief,Grenchen,False
-2581,Olten,Kanton Solothurn,47.34999,7.90329,406.0,tief,Olten,False
-2601,Solothurn,Kanton Solothurn,47.20791,7.53714,440.0,tief,Solothurn,False
-2701,Basel,Kanton Basel-Stadt,47.55839,7.57327,279.0,tief,Basel,False
-2829,Liestal,Kanton Basel-Landschaft,47.48455,7.73446,327.0,tief,Liestal,False
-2831,Pratteln,Kanton Basel-Landschaft,47.52071,7.69356,291.0,tief,Pratteln,False
-2939,Schaffhausen,Kanton Schaffhausen,47.69732,8.63493,403.0,tief,Schaffhausen,False
-3002,Hundwil,Kanton Appenzell Ausserrhoden,47.36464,9.31847,792.0,tief,Hundwil,False
-3022,Gais,Kanton Appenzell Ausserrhoden,47.3615,9.45356,924.0,tief,Gais AR,False
-3024,Teufen (AR),Kanton Appenzell Ausserrhoden,47.3908,9.38644,842.0,tief,Teufen AR,False
-3032,Heiden,Kanton Appenzell Ausserrhoden,47.44255,9.53293,786.0,tief,Heiden AR,False
-3101,Appenzell,Kanton Appenzell Innerrhoden,47.33103,9.40996,783.0,tief,Appenzell,False
-3102,Gonten,Kanton Appenzell Innerrhoden,47.32725,9.34705,900.0,tief,Gonten,False
-3203,St. Gallen,Kanton St. Gallen,47.42391,9.37477,684.0,tief,St. Gallen,False
-3216,Rorschacherberg,Kanton St. Gallen,47.47313,9.51116,453.0,tief,Rorschacherberg,False
-3251,Altstätten,Kanton St. Gallen,47.37766,9.54746,447.0,tief,Altstätten SG,False
-3271,Buchs (SG),Kanton St. Gallen,47.16743,9.47794,447.0,tief,Buchs SG,False
-3291,Bad Ragaz,Kanton St. Gallen,47.00601,9.50266,512.0,tief,Bad Ragaz,False
-3292,Flums,Kanton St. Gallen,47.08913,9.30336,1400.0,mittel,Flumserberg Tannenheim,True
-3295,Quarten,Kanton St. Gallen,47.107,9.24199,574.0,tief,Quarten,False
-3298,Walenstadt,Kanton St. Gallen,47.12411,9.31194,426.0,tief,Walenstadt,False
-3311,Amden,Kanton St. Gallen,47.14888,9.14233,903.0,tief,Amden,False
-3340,Rapperswil-Jona,,47.22557,8.82228,408.0,tief,Rapperswil SG,True
-3342,Eschenbach (SG),Kanton St. Gallen,47.23981,8.92156,480.0,tief,Eschenbach SG,False
-3359,Wildhaus-Alt St. Johann,,47.20583,9.35402,1090.0,mittel,Wildhaus SG,True
-3396,Neckertal,,47.33595,9.1302,659.0,tief,Brunnadern,True
-3408,Uzwil,Kanton St. Gallen,47.43653,9.13422,542.0,tief,Uzwil,False
-3427,Wil (SG),Kanton St. Gallen,47.46152,9.04552,569.0,tief,Wil SG,False
-3506,Vaz/Obervaz,Kanton Graubünden,46.72215,9.55905,1473.0,mittel,Lenzerheide,True
-3543,Surses,,46.59732,9.59816,1219.0,mittel,Savognin,True
-3561,Poschiavo,Kanton Graubünden,46.32441,10.05823,1010.0,mittel,Poschiavo,False
-3575,Laax,Kanton Graubünden,46.80452,9.25787,1011.0,mittel,Laax,False
-3603,Vals,Kanton Graubünden,46.61647,9.18025,1252.0,mittel,Vals,False
-3618,Lumnezia,,46.718,9.17224,1253.0,mittel,Villa,True
-3619,Ilanz/Glion,,46.77413,9.20461,705.0,tief,Ilanz,True
-3714,Rheinwald,Kanton Graubünden,46.55178,9.32217,1462.0,mittel,Splügen,True
-3732,Flims,Kanton Graubünden,46.83705,9.28458,1085.0,mittel,Flims,False
-3746,Zernez,Kanton Graubünden,46.69862,10.09268,1477.0,mittel,Zernez,False
-3752,Samnaun,Kanton Graubünden,46.94373,10.36058,1841.0,hoch,Samnaun,False
-3762,Scuol,Kanton Graubünden,46.79671,10.29804,1250.0,mittel,Scuol,False
-3782,Celerina/Schlarigna,Kanton Graubünden,46.51217,9.85794,1727.0,hoch,Celerina,False
-3784,Pontresina,Kanton Graubünden,46.4955,9.90126,1822.0,hoch,Pontresina,False
-3786,Samedan,Kanton Graubünden,46.53399,9.87276,1716.0,hoch,Samedan,False
-3787,St. Moritz,Kanton Graubünden,46.49937,9.84327,1845.0,hoch,Sankt Moritz,False
-3792,Bregaglia,,46.34199,9.53925,1099.0,mittel,Soglio GR,True
-3847,Val Müstair,,46.62683,10.44624,1256.0,mittel,Müstair,True
-3851,Davos,Kanton Graubünden,46.80429,9.83723,1560.0,hoch,Davos,False
-3871,Klosters,Kanton Graubünden,46.86881,9.88151,1200.0,mittel,Klosters,False
-3901,Chur,Kanton Graubünden,46.84986,9.53287,601.0,tief,Chur,False
-3921,Arosa,Kanton Graubünden,46.77793,9.67621,1775.0,hoch,Arosa,False
-3953,Maienfeld,Kanton Graubünden,47.00472,9.53115,506.0,tief,Maienfeld GR,False
-3981,Breil/Brigels,Kanton Graubünden,46.76986,9.06036,1281.0,mittel,Brigels,False
-3986,Tujetsch,,46.67934,8.77305,1402.0,mittel,Sedrun,True
-4001,Aarau,Kanton Aargau,47.39254,8.04422,389.0,tief,Aarau,False
-4021,Baden,Kanton Aargau,47.47333,8.30592,381.0,tief,Baden AG,False
-4201,Lenzburg,Kanton Aargau,47.38853,8.17503,402.0,tief,Lenzburg,False
-4258,Rheinfelden,Kanton Aargau,47.55437,7.79403,277.0,tief,"Rheinfelden, Aargau",False
-4289,Zofingen,Kanton Aargau,47.28779,7.94586,441.0,tief,Zofingen,False
-4401,Arbon,Kanton Thurgau,47.51667,9.43333,408.0,tief,Arbon,False
-4566,Frauenfeld,Kanton Thurgau,47.55776,8.89893,417.0,tief,Frauenfeld,False
-4671,Kreuzlingen,Kanton Thurgau,47.65051,9.17504,414.0,tief,Kreuzlingen,False
-5002,Bellinzona,Kanton Tessin,46.19278,9.01703,230.0,tief,Bellinzona,False
-5091,Ascona,Kanton Tessin,46.15451,8.77327,202.0,tief,Ascona,False
-5113,Locarno,Kanton Tessin,46.17086,8.79953,206.0,tief,Locarno,False
-5120,Muralto,Kanton Tessin,46.17323,8.80219,221.0,tief,Muralto,False
-5192,Lugano,Kanton Tessin,46.01008,8.96004,284.0,tief,Lugano,False
-5210,Paradiso,Kanton Tessin,45.99003,8.9457,296.0,tief,Paradiso TI,False
-5236,Collina d'Oro,,45.98323,8.91786,473.0,tief,Montagnola,True
-5238,Monteceneri,,46.12681,8.92315,472.0,tief,Rivera TI,True
-5250,Chiasso,Kanton Tessin,45.83203,9.03119,237.0,tief,Chiasso,False
-5254,Mendrisio,Kanton Tessin,45.87019,8.9816,338.0,tief,Mendrisio,False
-5407,Leysin,Kanton Waadt,46.34183,7.01151,1262.0,mittel,Leysin,False
-5409,Ollon,Kanton Waadt,46.29832,7.05631,1250.0,mittel,Villars-sur-Ollon,True
-5411,Ormont-Dessus,,46.35001,7.15897,1181.0,mittel,Les Diablerets,True
-5552,Bullet,Kanton Waadt,46.83119,6.55403,1146.0,mittel,Bullet VD,False
-5586,Lausanne,Kanton Waadt,46.516,6.63282,453.0,tief,Lausanne,False
-5613,Bourg-en-Lavaux,,46.48892,6.72945,392.0,tief,Cully VD,True
-5642,Morges,Kanton Waadt,46.51127,6.49854,380.0,tief,Morges,False
-5724,Nyon,Kanton Waadt,46.38318,6.23955,401.0,tief,Nyon,False
-5841,Château-d'Oex,Kanton Waadt,46.47455,7.13155,962.0,tief,Château-d'Oex,False
-5872,Le Chenit,Kanton Waadt,46.60688,6.23062,1015.0,mittel,Le Chenit,False
-5886,Montreux,Kanton Waadt,46.43301,6.91143,403.0,tief,Montreux,False
-5890,Vevey,Kanton Waadt,46.46299,6.84345,388.0,tief,Vevey,False
-5892,Blonay - Saint-Légier,,46.46778,6.89615,629.0,tief,Blonay,True
-5938,Yverdon-les-Bains,Kanton Waadt,46.77852,6.64115,438.0,tief,Yverdon-les-Bains,False
-6002,Brig-Glis,,46.31667,7.98333,680.0,tief,Brig,True
-6024,Nendaz,Kanton Wallis,46.1872,7.2975,1350.0,mittel,Haute-Nendaz,True
-6034,Orsières,Kanton Wallis,46.02653,7.12017,1480.0,mittel,Champex,True
-6037,Val de Bagnes,,46.1002,7.22651,1515.0,hoch,Verbier,True
-6077,Goms,,46.48647,8.26434,1382.0,mittel,Münster-Geschinen,True
-6083,Evolène,Kanton Wallis,46.11422,7.49407,1340.0,mittel,Evolène,False
-6111,Leukerbad,Kanton Wallis,46.37943,7.62687,1383.0,mittel,Leukerbad,False
-6136,Martigny,Kanton Wallis,46.10276,7.07245,475.0,tief,Martigny-Ville,False
-6151,Champéry,Kanton Wallis,46.17543,6.86903,1048.0,mittel,Champéry,False
-6217,Saint-Maurice,Kanton Wallis,46.21826,7.0032,419.0,tief,Saint-Maurice VS,False
-6248,Sierre,Kanton Wallis,46.29192,7.53559,528.0,tief,Siders,False
-6252,Anniviers,,46.18091,7.57584,1580.0,hoch,Grimentz,True
-6253,Crans-Montana,Kanton Wallis,46.31316,7.47914,1547.0,hoch,Crans-Montana,False
-6266,Sion,Kanton Wallis,46.21959,7.32676,483.0,tief,Flughafen Sitten,False
-6290,Saas-Fee,Kanton Wallis,46.10805,7.92741,1800.0,hoch,Saas-Fee,False
-6291,Saas-Grund,Kanton Wallis,46.12281,7.93651,1564.0,hoch,Saas-Grund,False
-6297,Visp,Kanton Wallis,46.2937,7.88149,653.0,tief,Visp,False
-6300,Zermatt,Kanton Wallis,46.01998,7.74863,1608.0,hoch,Zermatt,False
-6417,La Grande Béroche,,46.89419,6.77251,821.0,tief,Saint-Aubin-Sauges,True
-6421,La Chaux-de-Fonds,Kanton Neuenburg,47.09993,6.82586,995.0,tief,La Chaux-de-Fonds,False
-6458,Neuchâtel,Kanton Neuenburg,46.99179,6.931,441.0,tief,Neuenburg,False
-6513,Laténa,,47.00986,7.00424,456.0,tief,Marin,True
-6621,Genève,Kanton Genf,46.20222,6.14569,400.0,tief,Genf,False
-6628,Lancy,Kanton Genf,46.18981,6.11441,421.0,tief,Lancy,False
-6630,Meyrin,Kanton Genf,46.23424,6.08025,445.0,tief,Meyrin,False
-6643,Vernier,Kanton Genf,46.21702,6.08497,440.0,tief,Vernier,False
-6711,Delémont,Kanton Jura,47.36493,7.34453,432.0,tief,Delémont,False
-6757,Saignelégier,Kanton Jura,47.25619,6.99648,985.0,tief,Saignelégier,False
-6800,Porrentruy,Kanton Jura,47.41728,7.07573,425.0,tief,Porrentruy,False
-6808,Clos du Doubs,Kanton Bern,47.36474,7.15436,445.0,tief,Saint-Ursanne,True
-6831,Moutier (JU),Kanton Jura,47.27818,7.36951,535.0,tief,Moutier,False
+bfs_nr,name,kanton,lat,lon,hoehe_m,hoehenklasse,hoehenklasse_1000,winteranteil,ausgewaehlt,ort_gefunden,korrigiert
+62,Kloten,Kanton Zürich,47.45152,8.58491,439.0,tief,tief,0.2831811937344842,False,Kloten,False
+66,Opfikon,Kanton Zürich,47.43169,8.57588,438.0,tief,tief,0.25344114719659594,False,Opfikon,False
+191,Dübendorf,Kanton Zürich,47.39724,8.61872,436.0,tief,tief,0.28739646496697935,False,Dübendorf,False
+198,Uster,Kanton Zürich,47.34713,8.72091,469.0,tief,tief,0.27399511012038325,False,Uster,False
+230,Winterthur,Kanton Zürich,47.50564,8.72413,441.0,tief,tief,0.26977077278232087,False,Winterthur,False
+261,Zürich,Kanton Zürich,47.36667,8.55,429.0,tief,tief,0.2755247236672825,False,Zürich,False
+293,Wädenswil,Kanton Zürich,47.22683,8.6687,450.0,tief,tief,0.22927067025079018,False,Wädenswil,False
+295,Horgen,Kanton Zürich,47.25983,8.59778,415.0,tief,tief,0.21953812943489784,False,Horgen,False
+329,Langenthal,Kanton Bern,47.21526,7.79607,478.0,tief,tief,0.2799730657586245,False,Langenthal,False
+351,Bern,Kanton Bern,46.94809,7.44744,549.0,tief,tief,0.2532292948366879,False,Bern,False
+355,Köniz,Kanton Bern,46.92436,7.41457,577.0,tief,tief,0.2271074210038769,False,Köniz,False
+371,Biel/Bienne,Kanton Bern,47.13713,7.24608,434.0,tief,tief,0.2517144180166407,False,Biel,False
+404,Burgdorf,Kanton Bern,47.05901,7.62786,535.0,tief,tief,0.22354808590102707,False,Burgdorf,False
+561,Adelboden,Kanton Bern,46.49142,7.56031,1328.0,mittel,mittel,0.4435095880214894,True,Adelboden,False
+562,Aeschi bei Spiez,Kanton Bern,46.65848,7.6965,860.0,tief,tief,0.19645611381406955,False,Aeschi bei Spiez,False
+565,Kandersteg,Kanton Bern,46.49467,7.67326,1172.0,tief,mittel,0.2894736160480322,False,Kandersteg,False
+567,Reichenbach im Kandertal,Kanton Bern,46.62541,7.69362,712.0,tief,tief,0.2170925221939606,False,Reichenbach im Kandertal,False
+571,Beatenberg,Kanton Bern,46.69896,7.79428,1172.0,tief,mittel,0.2234041398473879,False,Beatenberg,False
+573,Brienz (BE),Kanton Bern,46.7545,8.03847,563.0,tief,tief,0.10471405731788713,False,Brienz,False
+576,Grindelwald,Kanton Bern,46.62396,8.03601,1047.0,tief,mittel,0.3227620555398861,False,Grindelwald,False
+581,Interlaken,Kanton Bern,46.68387,7.86638,570.0,tief,tief,0.2234945225744323,False,Interlaken,False
+584,Lauterbrunnen,Kanton Bern,46.60599,7.92013,1272.0,mittel,mittel,0.38405568600892537,True,Wengen,True
+587,Matten bei Interlaken,Kanton Bern,46.67833,7.86889,576.0,tief,tief,0.1568452144523323,False,Matten bei Interlaken,False
+593,Unterseen,Kanton Bern,46.6853,7.84722,570.0,tief,tief,0.1862839299323947,False,Unterseen,False
+594,Wilderswil,Kanton Bern,46.66369,7.86175,598.0,tief,tief,0.2146986614777711,False,Wilderswil,False
+700,Moutier (BE),Kanton Jura,47.27818,7.36951,535.0,tief,tief,0.28113018473335655,False,Moutier,False
+762,Diemtigen,Kanton Bern,46.64928,7.56477,814.0,tief,tief,0.3022624701336244,False,Diemtigen,False
+768,Spiez,Kanton Bern,46.68473,7.69111,595.0,tief,tief,0.18262466433457214,False,Spiez,False
+783,Hasliberg,Kanton Zürich,46.74466,8.19535,1165.0,tief,mittel,0.38349474668121547,True,Hasliberg,True
+784,Innertkirchen,Kanton Bern,46.70467,8.22876,627.0,tief,tief,0.09523399289660925,False,Innertkirchen,False
+785,Meiringen,Kanton Bern,46.72709,8.1872,599.0,tief,tief,0.26310762164707563,False,Meiringen,False
+792,Lenk,Kanton Bern,46.45826,7.44298,1067.0,tief,mittel,0.46872402836473953,True,Lenk im Simmental,False
+843,Saanen,Kanton Bern,46.47215,7.28685,1055.0,tief,mittel,0.4553650591029596,True,Gstaad,True
+902,Langnau im Emmental,Kanton Bern,46.93936,7.78738,677.0,tief,tief,0.24874634535306103,False,Langnau im Emmental,False
+906,Schangnau,Kanton Bern,46.82784,7.85987,930.0,tief,tief,0.28195079745780505,False,Schangnau,False
+938,Sigriswil,Kanton Bern,46.71656,7.71335,797.0,tief,tief,0.2548970533125713,False,Sigriswil,False
+942,Thun,Kanton Bern,46.75118,7.62166,560.0,tief,tief,0.20153537067053864,False,Thun,False
+979,Herzogenbuchsee,Kanton Bern,47.18795,7.7062,474.0,tief,tief,0.28633520307773636,False,Herzogenbuchsee,False
+1024,Emmen,Kanton Luzern,47.07819,8.27331,464.0,tief,tief,0.23052932629972964,False,Emmen,False
+1059,Kriens,Kanton Luzern,47.0311,8.28547,476.0,tief,tief,0.21932401630803244,False,Kriens,False
+1061,Luzern,Kanton Luzern,47.05048,8.30635,437.0,tief,tief,0.2230203412198396,False,Luzern,False
+1063,Meggen,Kanton Luzern,47.04691,8.37467,476.0,tief,tief,0.19497569942237794,False,Meggen,False
+1068,Vitznau,Kanton Luzern,47.01014,8.4842,448.0,tief,tief,0.1486772984094161,False,Vitznau,False
+1069,Weggis,Kanton Luzern,47.03208,8.43219,439.0,tief,tief,0.2033895831213717,False,Weggis,False
+1103,Sursee,Kanton Luzern,47.17088,8.11113,503.0,tief,tief,0.22211289193331693,False,Sursee,False
+1202,Andermatt,Kanton Uri,46.63565,8.59388,1441.0,mittel,mittel,0.4483581534456308,True,Andermatt,False
+1209,Gurtnellen,Kanton Uri,46.73814,8.62843,932.0,tief,tief,0.1298019256329627,False,Gurtnellen,False
+1301,Einsiedeln,Kanton Schwyz,47.12849,8.74735,882.0,tief,tief,0.23008604508831854,False,Einsiedeln,False
+1321,Feusisberg,Kanton Schwyz,47.18707,8.74724,696.0,tief,tief,0.27073680272997075,False,Feusisberg,False
+1322,Freienbach,Kanton Schwyz,47.20534,8.75842,410.0,tief,tief,0.23532023604502159,False,Freienbach,False
+1331,Küssnacht (SZ),Kanton Schwyz,47.08557,8.44206,440.0,tief,tief,0.2166653944505935,False,Küssnacht SZ,False
+1364,Ingenbohl,Kanton Schwyz,46.9988,8.61529,438.0,tief,tief,0.18517581827003565,False,Ingenbohl,False
+1366,Morschach,Kanton Schwyz,46.98271,8.61826,648.0,tief,tief,0.318964364930943,False,Morschach,False
+1372,Schwyz,Kanton Schwyz,47.02076,8.65414,521.0,tief,tief,0.27938439166262724,False,Schwyz,False
+1402,Engelberg,Kanton Obwalden,46.82107,8.40133,1015.0,tief,mittel,0.3472888737433975,True,Engelberg,False
+1406,Sachseln,Kanton Obwalden,46.86718,8.23344,477.0,tief,tief,0.15446958373533426,False,Sachseln,False
+1407,Sarnen,Kanton Obwalden,46.89611,8.24531,473.0,tief,tief,0.22547852765676463,False,Sarnen,False
+1501,Beckenried,Kanton Nidwalden,46.96653,8.47575,434.0,tief,tief,0.23697819508353024,False,Beckenried,False
+1504,Emmetten,Kanton Nidwalden,46.95658,8.51467,761.0,tief,tief,0.2542740951975083,False,Emmetten,False
+1630,Glarus Nord,,47.09775,9.06361,437.0,tief,tief,0.2311174010972814,False,Näfels,True
+1631,Glarus Süd,,46.91902,9.17242,977.0,tief,tief,0.39161194681551076,True,Elm GL,True
+1709,Unterägeri,Kanton Zug,47.13645,8.5853,727.0,tief,tief,0.22889789372700067,False,Unterägeri,False
+1711,Zug,Kanton Zug,47.17242,8.51745,425.0,tief,tief,0.27839313555061346,False,Zug,False
+2121,Haut-Intyamon,,46.51727,7.0567,759.0,tief,tief,0.22728445747800585,False,Albeuve,True
+2125,Bulle,Kanton Freiburg,46.61797,7.0569,771.0,tief,tief,0.26470729618891675,False,Bulle,False
+2135,Gruyères,Kanton Freiburg,46.58338,7.08207,805.0,tief,tief,0.2204904075377455,False,Gruyères,False
+2196,Fribourg,Kanton Freiburg,46.80237,7.15128,610.0,tief,tief,0.2608803858062023,False,Freiburg,False
+2275,Murten,Kanton Freiburg,46.92827,7.11715,435.0,tief,tief,0.19696664735741426,False,Murten,False
+2299,Plaffeien,Kanton Freiburg,46.68186,7.29445,1026.0,tief,mittel,0.26883549133417217,False,Schwarzsee,True
+2401,Egerkingen,Kanton Solothurn,47.31957,7.78424,433.0,tief,tief,0.20641918174383117,False,Egerkingen,False
+2546,Grenchen,Kanton Solothurn,47.1921,7.39586,454.0,tief,tief,0.2930488397676977,False,Grenchen,False
+2581,Olten,Kanton Solothurn,47.34999,7.90329,406.0,tief,tief,0.26322751658274884,False,Olten,False
+2601,Solothurn,Kanton Solothurn,47.20791,7.53714,440.0,tief,tief,0.2663466803041497,False,Solothurn,False
+2701,Basel,Kanton Basel-Stadt,47.55839,7.57327,279.0,tief,tief,0.2848129621219744,False,Basel,False
+2829,Liestal,Kanton Basel-Landschaft,47.48455,7.73446,327.0,tief,tief,0.268407715508537,False,Liestal,False
+2831,Pratteln,Kanton Basel-Landschaft,47.52071,7.69356,291.0,tief,tief,0.2723806399413917,False,Pratteln,False
+2939,Schaffhausen,Kanton Schaffhausen,47.69732,8.63493,403.0,tief,tief,0.23421285247060902,False,Schaffhausen,False
+3002,Hundwil,Kanton Appenzell Ausserrhoden,47.36464,9.31847,792.0,tief,tief,0.29427262420311134,False,Hundwil,False
+3022,Gais,Kanton Appenzell Ausserrhoden,47.3615,9.45356,924.0,tief,tief,0.21589140938498075,False,Gais AR,False
+3024,Teufen (AR),Kanton Appenzell Ausserrhoden,47.3908,9.38644,842.0,tief,tief,0.26070973125305036,False,Teufen AR,False
+3032,Heiden,Kanton Appenzell Ausserrhoden,47.44255,9.53293,786.0,tief,tief,0.24197036415243325,False,Heiden AR,False
+3101,Appenzell,Kanton Appenzell Innerrhoden,47.33103,9.40996,783.0,tief,tief,0.13114560424580599,False,Appenzell,False
+3102,Gonten,Kanton Appenzell Innerrhoden,47.32725,9.34705,900.0,tief,tief,0.2612828194261776,False,Gonten,False
+3203,St. Gallen,Kanton St. Gallen,47.42391,9.37477,684.0,tief,tief,0.26651491933350085,False,St. Gallen,False
+3216,Rorschacherberg,Kanton St. Gallen,47.47313,9.51116,453.0,tief,tief,0.1988974511335036,False,Rorschacherberg,False
+3251,Altstätten,Kanton St. Gallen,47.37766,9.54746,447.0,tief,tief,0.25739312347014287,False,Altstätten SG,False
+3271,Buchs (SG),Kanton St. Gallen,47.16743,9.47794,447.0,tief,tief,0.2696826357383025,False,Buchs SG,False
+3291,Bad Ragaz,Kanton St. Gallen,47.00601,9.50266,512.0,tief,tief,0.3042482846634715,False,Bad Ragaz,False
+3292,Flums,Kanton St. Gallen,47.08913,9.30336,1400.0,mittel,mittel,0.5836677200902934,True,Flumserberg Tannenheim,True
+3295,Quarten,Kanton St. Gallen,47.107,9.24199,574.0,tief,tief,0.3702095063005094,True,Quarten,False
+3298,Walenstadt,Kanton St. Gallen,47.12411,9.31194,426.0,tief,tief,0.2157652760308967,False,Walenstadt,False
+3311,Amden,Kanton St. Gallen,47.14888,9.14233,903.0,tief,tief,0.2595337693390277,False,Amden,False
+3340,Rapperswil-Jona,,47.22557,8.82228,408.0,tief,tief,0.2531699490614502,False,Rapperswil SG,True
+3342,Eschenbach (SG),Kanton St. Gallen,47.23981,8.92156,480.0,tief,tief,0.23177989025427004,False,Eschenbach SG,False
+3359,Wildhaus-Alt St. Johann,,47.20583,9.35402,1090.0,tief,mittel,0.39697988024216313,True,Wildhaus SG,True
+3396,Neckertal,,47.33595,9.1302,659.0,tief,tief,0.17164113477672055,False,Brunnadern,True
+3408,Uzwil,Kanton St. Gallen,47.43653,9.13422,542.0,tief,tief,0.3088855893298795,False,Uzwil,False
+3427,Wil (SG),Kanton St. Gallen,47.46152,9.04552,569.0,tief,tief,0.2689488474463026,False,Wil SG,False
+3506,Vaz/Obervaz,Kanton Graubünden,46.72215,9.55905,1473.0,mittel,mittel,0.5412996721281328,True,Lenzerheide,True
+3543,Surses,,46.59732,9.59816,1219.0,mittel,mittel,0.511652887806188,True,Savognin,True
+3561,Poschiavo,Kanton Graubünden,46.32441,10.05823,1010.0,tief,mittel,0.15006444194538862,False,Poschiavo,False
+3575,Laax,Kanton Graubünden,46.80452,9.25787,1011.0,tief,mittel,0.6069674931973629,True,Laax,False
+3603,Vals,Kanton Graubünden,46.61647,9.18025,1252.0,mittel,mittel,0.4593360411335196,True,Vals,False
+3618,Lumnezia,,46.718,9.17224,1253.0,mittel,mittel,0.5266553176238689,True,Villa,True
+3619,Ilanz/Glion,,46.77413,9.20461,705.0,tief,tief,0.319375306906479,False,Ilanz,True
+3714,Rheinwald,Kanton Graubünden,46.55178,9.32217,1462.0,mittel,mittel,0.34341062518344584,True,Splügen,True
+3732,Flims,Kanton Graubünden,46.83705,9.28458,1085.0,tief,mittel,0.5042469983322968,True,Flims,False
+3746,Zernez,Kanton Graubünden,46.69862,10.09268,1477.0,mittel,mittel,0.24372936657461539,False,Zernez,False
+3752,Samnaun,Kanton Graubünden,46.94373,10.36058,1841.0,hoch,hoch,0.6330736166849322,True,Samnaun,False
+3762,Scuol,Kanton Graubünden,46.79671,10.29804,1250.0,mittel,mittel,0.4244653196376926,True,Scuol,False
+3782,Celerina/Schlarigna,Kanton Graubünden,46.51217,9.85794,1727.0,hoch,hoch,0.5112929955086115,True,Celerina,False
+3784,Pontresina,Kanton Graubünden,46.4955,9.90126,1822.0,hoch,hoch,0.46036820306990195,True,Pontresina,False
+3786,Samedan,Kanton Graubünden,46.53399,9.87276,1716.0,hoch,hoch,0.40516524927902114,True,Samedan,False
+3787,St. Moritz,Kanton Graubünden,46.49937,9.84327,1845.0,hoch,hoch,0.5148009492716971,True,Sankt Moritz,False
+3792,Bregaglia,,46.34199,9.53925,1099.0,tief,mittel,0.35947718828832714,True,Soglio GR,True
+3847,Val Müstair,,46.62683,10.44624,1256.0,mittel,mittel,0.22563658216172403,False,Müstair,True
+3851,Davos,Kanton Graubünden,46.80429,9.83723,1560.0,hoch,hoch,0.5012449274961812,True,Davos,False
+3871,Klosters,Kanton Graubünden,46.86881,9.88151,1200.0,mittel,mittel,0.5242388226014528,True,Klosters,False
+3901,Chur,Kanton Graubünden,46.84986,9.53287,601.0,tief,tief,0.2868509065135428,False,Chur,False
+3921,Arosa,Kanton Graubünden,46.77793,9.67621,1775.0,hoch,hoch,0.673570051387903,True,Arosa,False
+3953,Maienfeld,Kanton Graubünden,47.00472,9.53115,506.0,tief,tief,0.23902828840734403,False,Maienfeld GR,False
+3981,Breil/Brigels,Kanton Graubünden,46.76986,9.06036,1281.0,mittel,mittel,0.494342962046372,True,Brigels,False
+3986,Tujetsch,,46.67934,8.77305,1402.0,mittel,mittel,0.5293710370964215,True,Sedrun,True
+4001,Aarau,Kanton Aargau,47.39254,8.04422,389.0,tief,tief,0.2631117821034786,False,Aarau,False
+4021,Baden,Kanton Aargau,47.47333,8.30592,381.0,tief,tief,0.2800088103154995,False,Baden AG,False
+4201,Lenzburg,Kanton Aargau,47.38853,8.17503,402.0,tief,tief,0.26016565839317013,False,Lenzburg,False
+4258,Rheinfelden,Kanton Aargau,47.55437,7.79403,277.0,tief,tief,0.3049209000129439,False,"Rheinfelden, Aargau",False
+4289,Zofingen,Kanton Aargau,47.28779,7.94586,441.0,tief,tief,0.26844623634092335,False,Zofingen,False
+4401,Arbon,Kanton Thurgau,47.51667,9.43333,408.0,tief,tief,0.16909587606942467,False,Arbon,False
+4566,Frauenfeld,Kanton Thurgau,47.55776,8.89893,417.0,tief,tief,0.27426409493998316,False,Frauenfeld,False
+4671,Kreuzlingen,Kanton Thurgau,47.65051,9.17504,414.0,tief,tief,0.19174747821206406,False,Kreuzlingen,False
+5002,Bellinzona,Kanton Tessin,46.19278,9.01703,230.0,tief,tief,0.21802857698419617,False,Bellinzona,False
+5091,Ascona,Kanton Tessin,46.15451,8.77327,202.0,tief,tief,0.09400174192804595,False,Ascona,False
+5113,Locarno,Kanton Tessin,46.17086,8.79953,206.0,tief,tief,0.15305717663989146,False,Locarno,False
+5120,Muralto,Kanton Tessin,46.17323,8.80219,221.0,tief,tief,0.15566120287146432,False,Muralto,False
+5192,Lugano,Kanton Tessin,46.01008,8.96004,284.0,tief,tief,0.17895236412757876,False,Lugano,False
+5210,Paradiso,Kanton Tessin,45.99003,8.9457,296.0,tief,tief,0.21166697537966198,False,Paradiso TI,False
+5236,Collina d'Oro,,45.98323,8.91786,473.0,tief,tief,0.17204746925936518,False,Montagnola,True
+5238,Monteceneri,,46.12681,8.92315,472.0,tief,tief,0.22830301222785565,False,Rivera TI,True
+5250,Chiasso,Kanton Tessin,45.83203,9.03119,237.0,tief,tief,0.25383511825150346,False,Chiasso,False
+5254,Mendrisio,Kanton Tessin,45.87019,8.9816,338.0,tief,tief,0.21122155509937388,False,Mendrisio,False
+5407,Leysin,Kanton Waadt,46.34183,7.01151,1262.0,mittel,mittel,0.4540770288295127,True,Leysin,False
+5409,Ollon,Kanton Waadt,46.29832,7.05631,1250.0,mittel,mittel,0.513055180196644,True,Villars-sur-Ollon,True
+5411,Ormont-Dessus,,46.35001,7.15897,1181.0,tief,mittel,0.42502224024922713,True,Les Diablerets,True
+5552,Bullet,Kanton Waadt,46.83119,6.55403,1146.0,tief,mittel,0.3088058344279009,False,Bullet VD,False
+5586,Lausanne,Kanton Waadt,46.516,6.63282,453.0,tief,tief,0.2570941701623462,False,Lausanne,False
+5613,Bourg-en-Lavaux,,46.48892,6.72945,392.0,tief,tief,0.2093557319107964,False,Cully VD,True
+5642,Morges,Kanton Waadt,46.51127,6.49854,380.0,tief,tief,0.2399644415660985,False,Morges,False
+5724,Nyon,Kanton Waadt,46.38318,6.23955,401.0,tief,tief,0.2551769189578796,False,Nyon,False
+5841,Château-d'Oex,Kanton Waadt,46.47455,7.13155,962.0,tief,tief,0.3389728241350413,True,Château-d'Oex,False
+5872,Le Chenit,Kanton Waadt,46.60688,6.23062,1015.0,tief,mittel,0.2593479046242775,False,Le Chenit,False
+5886,Montreux,Kanton Waadt,46.43301,6.91143,403.0,tief,tief,0.23153115446029224,False,Montreux,False
+5890,Vevey,Kanton Waadt,46.46299,6.84345,388.0,tief,tief,0.2524112854353242,False,Vevey,False
+5892,Blonay - Saint-Légier,,46.46778,6.89615,629.0,tief,tief,0.2295338510592516,False,Blonay,True
+5938,Yverdon-les-Bains,Kanton Waadt,46.77852,6.64115,438.0,tief,tief,0.24559114286050535,False,Yverdon-les-Bains,False
+6002,Brig-Glis,,46.31667,7.98333,680.0,tief,tief,0.2700548920089372,False,Brig,True
+6024,Nendaz,Kanton Wallis,46.1872,7.2975,1350.0,mittel,mittel,0.5337274012942408,True,Haute-Nendaz,True
+6034,Orsières,Kanton Wallis,46.02653,7.12017,1480.0,mittel,mittel,0.22560735131724247,False,Champex,True
+6037,Val de Bagnes,,46.1002,7.22651,1515.0,hoch,hoch,0.6014916967509025,True,Verbier,True
+6077,Goms,,46.48647,8.26434,1382.0,mittel,mittel,0.4887463481672708,True,Münster-Geschinen,True
+6083,Evolène,Kanton Wallis,46.11422,7.49407,1340.0,mittel,mittel,0.3656105520805004,True,Evolène,False
+6111,Leukerbad,Kanton Wallis,46.37943,7.62687,1383.0,mittel,mittel,0.4064762752975681,True,Leukerbad,False
+6136,Martigny,Kanton Wallis,46.10276,7.07245,475.0,tief,tief,0.2411783681194612,False,Martigny-Ville,False
+6151,Champéry,Kanton Wallis,46.17543,6.86903,1048.0,tief,mittel,0.522973951878925,True,Champéry,False
+6217,Saint-Maurice,Kanton Wallis,46.21826,7.0032,419.0,tief,tief,0.2440774776019715,False,Saint-Maurice VS,False
+6248,Sierre,Kanton Wallis,46.29192,7.53559,528.0,tief,tief,0.275689448827004,False,Siders,False
+6252,Anniviers,,46.18091,7.57584,1580.0,hoch,hoch,0.5164015469664563,True,Grimentz,True
+6253,Crans-Montana,Kanton Wallis,46.31316,7.47914,1547.0,hoch,hoch,0.4865719458151719,True,Crans-Montana,False
+6266,Sion,Kanton Wallis,46.21959,7.32676,483.0,tief,tief,0.2716376557774937,False,Flughafen Sitten,False
+6290,Saas-Fee,Kanton Wallis,46.10805,7.92741,1800.0,hoch,hoch,0.4928224478507715,True,Saas-Fee,False
+6291,Saas-Grund,Kanton Wallis,46.12281,7.93651,1564.0,hoch,hoch,0.40657506141337046,True,Saas-Grund,False
+6297,Visp,Kanton Wallis,46.2937,7.88149,653.0,tief,tief,0.26875510897040883,False,Visp,False
+6300,Zermatt,Kanton Wallis,46.01998,7.74863,1608.0,hoch,hoch,0.44224902039943953,True,Zermatt,False
+6417,La Grande Béroche,,46.89419,6.77251,821.0,tief,tief,0.2070279347767204,False,Saint-Aubin-Sauges,True
+6421,La Chaux-de-Fonds,Kanton Neuenburg,47.09993,6.82586,995.0,tief,tief,0.27711344117064574,False,La Chaux-de-Fonds,False
+6458,Neuchâtel,Kanton Neuenburg,46.99179,6.931,441.0,tief,tief,0.23721352139123705,False,Neuenburg,False
+6513,Laténa,,47.00986,7.00424,456.0,tief,tief,0.1798934926613846,False,Marin,True
+6621,Genève,Kanton Genf,46.20222,6.14569,400.0,tief,tief,0.289192901132308,False,Genf,False
+6628,Lancy,Kanton Genf,46.18981,6.11441,421.0,tief,tief,0.2929363850335646,False,Lancy,False
+6630,Meyrin,Kanton Genf,46.23424,6.08025,445.0,tief,tief,0.3032495975500744,False,Meyrin,False
+6643,Vernier,Kanton Genf,46.21702,6.08497,440.0,tief,tief,0.28704627291574586,False,Vernier,False
+6711,Delémont,Kanton Jura,47.36493,7.34453,432.0,tief,tief,0.2549617960569758,False,Delémont,False
+6757,Saignelégier,Kanton Jura,47.25619,6.99648,985.0,tief,tief,0.1668453321695359,False,Saignelégier,False
+6800,Porrentruy,Kanton Jura,47.41728,7.07573,425.0,tief,tief,0.22156947134351912,False,Porrentruy,False
+6808,Clos du Doubs,Kanton Bern,47.36474,7.15436,445.0,tief,tief,0.08307938758412432,False,Saint-Ursanne,True
+6831,Moutier (JU),Kanton Jura,47.27818,7.36951,535.0,tief,tief,,False,Moutier,False
