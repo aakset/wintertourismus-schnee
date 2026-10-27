@@ -18,7 +18,7 @@ Gruppe 35
 - BFS STAT-TAB Hotellerie (PxWeb-API): monatliche Zimmerauslastung und Herkunft der Gäste, 186 Gemeinden, seit 2013
 - Open-Meteo Historical Weather API (ERA5): Temperatur und Schneefall
 - Open-Meteo Geocoding API: Koordinaten und Höhe der Gemeinden
-- swisstopo swissBOUNDARIES3D: Gemeindegrenzen (Rohdatei nicht im Repo, Download bei swisstopo)
+- swisstopo swissBOUNDARIES3D, Version 2026-01: Gemeindegrenzen (Rohdatei nicht im Repo). Download: [swissboundaries3d_2026-01_2056_5728.gpkg.zip](https://data.geo.admin.ch/ch.swisstopo.swissboundaries3d/swissboundaries3d_2026-01/swissboundaries3d_2026-01_2056_5728.gpkg.zip) ([Produktseite](https://www.swisstopo.admin.ch/de/landschaftsmodell-swissboundaries3d)), entpacken nach `data/raw/geo/`
 
 Verknüpfung über BFS-Gemeindenummer, Jahr und Monat.
 
