@@ -50,26 +50,24 @@ bfs_nr|name|ort_gefunden|kanton_geo|hoehe_m|n_treffer|kt_ok|korrigiert
 1331|Küssnacht (SZ)|Küssnacht SZ|Kanton Schwyz|440.0|1|True|False
 2601|Solothurn|Solothurn|Kanton Solothurn|440.0|5|True|False
 6643|Vernier|Vernier|Kanton Genf|440.0|1|True|False
-6458|Neuchâtel|Neuenburg|Kanton Neuenburg|441.0|2|True|False
 4289|Zofingen|Zofingen|Kanton Aargau|441.0|1|True|False
+6458|Neuchâtel|Neuenburg|Kanton Neuenburg|441.0|2|True|False
 230|Winterthur|Winterthur|Kanton Zürich|441.0|3|True|False
+6808|Clos du Doubs|Saint-Ursanne|Kanton Bern|445.0|1|True|True
 6630|Meyrin|Meyrin|Kanton Genf|445.0|1|True|False
 3251|Altstätten|Altstätten SG|Kanton St. Gallen|447.0|1|True|False
 3271|Buchs (SG)|Buchs SG|Kanton St. Gallen|447.0|10|True|False
 1068|Vitznau|Vitznau|Kanton Luzern|448.0|1|True|False
 293|Wädenswil|Wädenswil|Kanton Zürich|450.0|8|True|False
-5409|Ollon|Ollon|Kanton Waadt|452.0|2|True|False
-3216|Rorschacherberg|Rorschacherberg|Kanton St. Gallen|453.0|1|True|False
 5586|Lausanne|Lausanne|Kanton Waadt|453.0|2|True|False
+3216|Rorschacherberg|Rorschacherberg|Kanton St. Gallen|453.0|1|True|False
 2546|Grenchen|Grenchen|Kanton Solothurn|454.0|6|True|False
-3292|Flums|Flums|Kanton St. Gallen|456.0|9|True|False
 6513|Laténa|Marin||456.0|0|False|True
-783|Hasliberg|Hasliberg|Kanton Zürich|464.0|7|True|False
 1024|Emmen|Emmen|Kanton Luzern|464.0|5|True|False
 198|Uster|Uster|Kanton Zürich|469.0|7|True|False
 5238|Monteceneri|Rivera TI||472.0|0|False|True
-5236|Collina d'Oro|Montagnola||473.0|0|False|True
 1407|Sarnen|Sarnen|Kanton Obwalden|473.0|1|True|False
+5236|Collina d'Oro|Montagnola||473.0|0|False|True
 979|Herzogenbuchsee|Herzogenbuchsee|Kanton Bern|474.0|1|True|False
 6136|Martigny|Martigny-Ville|Kanton Wallis|475.0|4|True|False
 1063|Meggen|Meggen|Kanton Luzern|476.0|2|True|False
@@ -110,7 +108,6 @@ bfs_nr|name|ort_gefunden|kanton_geo|hoehe_m|n_treffer|kt_ok|korrigiert
 6002|Brig-Glis|Brig||680.0|0|False|True
 3203|St. Gallen|St. Gallen|Kanton St. Gallen|684.0|3|True|False
 1321|Feusisberg|Feusisberg|Kanton Schwyz|696.0|1|True|False
-6808|Clos du Doubs|Clos du Doubs|Kanton Bern|702.0|1|True|False
 3619|Ilanz/Glion|Ilanz||705.0|0|False|True
 567|Reichenbach im Kandertal|Reichenbach im Kandertal|Kanton Bern|712.0|1|True|False
 1709|Unterägeri|Unterägeri|Kanton Zug|727.0|1|True|False
@@ -119,17 +116,14 @@ bfs_nr|name|ort_gefunden|kanton_geo|hoehe_m|n_treffer|kt_ok|korrigiert
 2125|Bulle|Bulle|Kanton Freiburg|771.0|2|True|False
 3101|Appenzell|Appenzell|Kanton Appenzell Innerrhoden|783.0|6|True|False
 3032|Heiden|Heiden AR|Kanton Appenzell Ausserrhoden|786.0|6|True|False
-584|Lauterbrunnen|Lauterbrunnen|Kanton Bern|787.0|3|True|False
 3002|Hundwil|Hundwil|Kanton Appenzell Ausserrhoden|792.0|2|True|False
 938|Sigriswil|Sigriswil|Kanton Bern|797.0|2|True|False
 2135|Gruyères|Gruyères|Kanton Freiburg|805.0|2|True|False
 762|Diemtigen|Diemtigen|Kanton Bern|814.0|1|True|False
 6417|La Grande Béroche|Saint-Aubin-Sauges||821.0|0|False|True
 3024|Teufen (AR)|Teufen AR|Kanton Appenzell Ausserrhoden|842.0|5|True|False
-2299|Plaffeien|Plaffeien|Kanton Freiburg|854.0|1|True|False
 562|Aeschi bei Spiez|Aeschi bei Spiez|Kanton Bern|860.0|1|True|False
 1301|Einsiedeln|Einsiedeln|Kanton Schwyz|882.0|1|True|False
-6034|Orsières|Orsières|Kanton Wallis|897.0|1|True|False
 3102|Gonten|Gonten|Kanton Appenzell Innerrhoden|900.0|4|True|False
 3311|Amden|Amden|Kanton St. Gallen|903.0|1|True|False
 3022|Gais|Gais AR|Kanton Appenzell Ausserrhoden|924.0|3|True|False
@@ -139,38 +133,45 @@ bfs_nr|name|ort_gefunden|kanton_geo|hoehe_m|n_treffer|kt_ok|korrigiert
 1631|Glarus Süd|Elm GL||977.0|0|False|True
 6757|Saignelégier|Saignelégier|Kanton Jura|985.0|1|True|False
 6421|La Chaux-de-Fonds|La Chaux-de-Fonds|Kanton Neuenburg|995.0|1|True|False
-6024|Nendaz|Basse-Nendaz|Kanton Wallis|1004.0|1|True|False
-843|Saanen|Saanen|Kanton Bern|1010.0|4|True|False
 3561|Poschiavo|Poschiavo|Kanton Graubünden|1010.0|1|True|False
 3575|Laax|Laax|Kanton Graubünden|1011.0|2|True|False
 1402|Engelberg|Engelberg|Kanton Obwalden|1015.0|5|True|False
 5872|Le Chenit|Le Chenit|Kanton Waadt|1015.0|1|True|False
+2299|Plaffeien|Schwarzsee|Kanton Freiburg|1026.0|1|True|True
 576|Grindelwald|Grindelwald|Kanton Bern|1047.0|1|True|False
 6151|Champéry|Champéry|Kanton Wallis|1048.0|1|True|False
+843|Saanen|Gstaad|Kanton Bern|1055.0|4|True|True
 792|Lenk|Lenk im Simmental|Kanton Bern|1067.0|2|True|False
 3732|Flims|Flims|Kanton Graubünden|1085.0|4|True|False
 3359|Wildhaus-Alt St. Johann|Wildhaus SG||1090.0|0|False|True
 3792|Bregaglia|Soglio GR||1099.0|0|False|True
 5552|Bullet|Bullet VD|Kanton Waadt|1146.0|1|True|False
+783|Hasliberg|Hasliberg|Kanton Zürich|1165.0|7|True|True
 565|Kandersteg|Kandersteg|Kanton Bern|1172.0|1|True|False
 571|Beatenberg|Beatenberg|Kanton Bern|1172.0|2|True|False
 5411|Ormont-Dessus|Les Diablerets||1181.0|0|False|True
 3871|Klosters|Klosters|Kanton Graubünden|1200.0|3|True|False
 3543|Surses|Savognin||1219.0|0|False|True
+5409|Ollon|Villars-sur-Ollon|Kanton Waadt|1250.0|2|True|True
 3762|Scuol|Scuol|Kanton Graubünden|1250.0|1|True|False
 3603|Vals|Vals|Kanton Graubünden|1252.0|6|True|False
 3618|Lumnezia|Villa||1253.0|0|False|True
 3847|Val Müstair|Müstair||1256.0|0|False|True
 5407|Leysin|Leysin|Kanton Waadt|1262.0|2|True|False
+584|Lauterbrunnen|Wengen|Kanton Bern|1272.0|3|True|True
 3981|Breil/Brigels|Brigels|Kanton Graubünden|1281.0|1|True|False
 561|Adelboden|Adelboden|Kanton Bern|1328.0|2|True|False
 6083|Evolène|Evolène|Kanton Wallis|1340.0|1|True|False
-3506|Vaz/Obervaz|Obervaz|Kanton Graubünden|1355.0|1|True|False
+6024|Nendaz|Haute-Nendaz|Kanton Wallis|1350.0|1|True|True
 6077|Goms|Münster-Geschinen||1382.0|0|False|True
 6111|Leukerbad|Leukerbad|Kanton Wallis|1383.0|1|True|False
+3292|Flums|Flumserberg Tannenheim|Kanton St. Gallen|1400.0|9|True|True
 3986|Tujetsch|Sedrun||1402.0|0|False|True
 1202|Andermatt|Andermatt|Kanton Uri|1441.0|1|True|False
+3714|Rheinwald|Splügen|Kanton Graubünden|1462.0|1|True|True
+3506|Vaz/Obervaz|Lenzerheide|Kanton Graubünden|1473.0|1|True|True
 3746|Zernez|Zernez|Kanton Graubünden|1477.0|1|True|False
+6034|Orsières|Champex|Kanton Wallis|1480.0|1|True|True
 6037|Val de Bagnes|Verbier||1515.0|0|False|True
 6253|Crans-Montana|Crans-Montana|Kanton Wallis|1547.0|1|True|False
 3851|Davos|Davos|Kanton Graubünden|1560.0|10|True|False
@@ -184,4 +185,3 @@ bfs_nr|name|ort_gefunden|kanton_geo|hoehe_m|n_treffer|kt_ok|korrigiert
 3784|Pontresina|Pontresina|Kanton Graubünden|1822.0|1|True|False
 3752|Samnaun|Samnaun|Kanton Graubünden|1841.0|2|True|False
 3787|St. Moritz|Sankt Moritz|Kanton Graubünden|1845.0|3|True|False
-3714|Rheinwald|Rheinwaldhorn|Kanton Graubünden|3402.0|1|True|False
