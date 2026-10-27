@@ -15,3 +15,4 @@
    jupyter
    ipykernel
    python-dateutil
+   holidays
