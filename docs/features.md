@@ -45,3 +45,18 @@ Zimmerauslastung statt Logiernächte: Sie hängt nicht von der Grösse des Ortes
   - **Für Modell und Präsentation:** Ergebnisse mit `ferientage_ch` für 2013–2019 beruhen auf einer Annahme. Das muss in der Präsentation gesagt werden. Robustheitscheck: Modell mit und ohne `ferientage_ch` rechnen bzw. nur für 2020–2026.
 - **Rohdaten:** `data/raw/kontext/snb_devkum.csv` , `data/raw/kontext/ferien_de_JJJJ.json` und `data/raw/kontext/ferien_ch_JJJJ.json`. Jede API wird nur einmal pro Jahr abgefragt, bereits gespeicherte Dateien werden nicht neu geladen (Notebook 01, Abschnitt 6).
 - **Join in 3.2:** `kontext_monat.csv` wird über `jahr` und `monat` an die Gemeinde-Monats-Tabelle gehängt. Zeilenzahl vorher und nachher protokollieren. Sie muss gleich bleiben.
+## Abgeleitete Variablen (5.1)
+
+| Name | Bedeutung | Einheit | Ebene | Quelle | Datei |
+|---|---|---|---|---|---|
+| `schnee_saison_abw` | Kumulierter Schneefall der Saison ab Dezember minus Normalwert des Ortes im selben Monat (Normalwert nur aus den Trainingswintern 2013/14–2021/22) | cm | Gemeinde × Monat | berechnet aus `schneefall_cm` (Open-Meteo, 1.5) | `notebooks/05_modell.ipynb` |
+| `schnee_vormonat` | Schneefall im Vormonat derselben Saison, im Dezember leer | cm | Gemeinde × Monat | berechnet aus `schneefall_cm` (Open-Meteo, 1.5) | `notebooks/05_modell.ipynb` |
+| `log_betten` | Natürlicher Logarithmus der Bettenzahl | ln(Betten) | Gemeinde × Monat | berechnet aus `betten` (BFS HESTA) | `notebooks/05_modell.ipynb` |
+| `anteil_ausland_vj` | Anteil ausländischer Logiernächte im selben Monat des Vorjahres, im ersten Jahr leer | Anteil | Gemeinde × Monat | berechnet aus `anteil_ausland` (BFS HESTA) | `notebooks/05_modell.ipynb` |
+| `trend` | Winterjahr minus 2013 (0 = Winter 2013/14) | Jahre | Winter | berechnet aus `winter` | `notebooks/05_modell.ipynb` |
+
+Schnee-Saison, Vormonat und Trend sind neu nach der Erkenntnis aus 4.4 (Schnee im selben Monat hängt kaum mit der Auslastung zusammen) und dem Feedback des Dozenten. `log_betten` dämpft sehr grosse Orte, `anteil_ausland_vj` nutzt den Vorjahreswert, damit nichts aus dem gleichen Monat einfliesst (kein Leakage).
+
+Fehlende Werte: `schnee_vormonat` hat 520 leere Werte (Dezember hat keinen Vormonat), `anteil_ausland_vj` hat 180 (erstes Jahr). Diese Zeilen fallen in 5.2 weg.
+
+`schnee_saison_abw` zählt ab Dezember, weil das Panel nur die Monate Dezember bis März enthält.
