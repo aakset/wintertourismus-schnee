@@ -22,19 +22,19 @@ bfs_nr|name|hoehe_m|hoehenklasse|winteranteil
 906|Schangnau|930.0|tief|0.28
 5841|Château-d'Oex|962.0|tief|0.34
 1631|Glarus Süd|977.0|tief|0.39
-3575|Laax|1011.0|mittel|0.61
-1402|Engelberg|1015.0|mittel|0.35
-576|Grindelwald|1047.0|mittel|0.32
-6151|Champéry|1048.0|mittel|0.52
-843|Saanen|1055.0|mittel|0.46
-792|Lenk|1067.0|mittel|0.47
-3732|Flims|1085.0|mittel|0.5
-3359|Wildhaus-Alt St. Johann|1090.0|mittel|0.4
-3792|Bregaglia|1099.0|mittel|0.36
-5552|Bullet|1146.0|mittel|0.31
-783|Hasliberg|1165.0|mittel|0.38
-565|Kandersteg|1172.0|mittel|0.29
-5411|Ormont-Dessus|1181.0|mittel|0.43
+3575|Laax|1011.0|tief|0.61
+1402|Engelberg|1015.0|tief|0.35
+576|Grindelwald|1047.0|tief|0.32
+6151|Champéry|1048.0|tief|0.52
+843|Saanen|1055.0|tief|0.46
+792|Lenk|1067.0|tief|0.47
+3732|Flims|1085.0|tief|0.5
+3359|Wildhaus-Alt St. Johann|1090.0|tief|0.4
+3792|Bregaglia|1099.0|tief|0.36
+5552|Bullet|1146.0|tief|0.31
+783|Hasliberg|1165.0|tief|0.38
+565|Kandersteg|1172.0|tief|0.29
+5411|Ormont-Dessus|1181.0|tief|0.43
 3871|Klosters|1200.0|mittel|0.52
 3543|Surses|1219.0|mittel|0.51
 5409|Ollon|1250.0|mittel|0.51
