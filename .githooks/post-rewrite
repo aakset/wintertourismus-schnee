@@ -1,0 +1,4 @@
+#!/bin/sh
+# nur bei git pull --rebase, nicht bei commit --amend
+[ "$1" = "rebase" ] || exit 0
+exec sh "$(git rev-parse --show-toplevel)/.githooks/db-aktualisieren.sh"

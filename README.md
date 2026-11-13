@@ -66,7 +66,16 @@ PostgreSQL, explorative Datenanalyse, ANOVA, lineare Regression mit Höhenklasse
    - Windows: `py -3.12 -m venv .venv` und `.venv\Scripts\Activate.ps1`
 3. `pip install -r requirements.txt`
 4. Datenbank starten: `.env` aus `.env.example` erstellen, dann `docker compose up -d`
-5. Notebooks in `notebooks/` der Reihe nach ausführen (01 bis 06)
+5. Einmalig die Git-Hooks einschalten: `git config core.hooksPath .githooks`
+6. Notebooks in `notebooks/` der Reihe nach ausführen (01 bis 06)
+
+### Datenbank automatisch aktuell halten
+
+Nach Schritt 5 lädt jeder `git pull` die PostgreSQL-Datenbank automatisch neu, wenn sich etwas in `data/processed/` oder `sql/schema.sql` geändert hat. Läuft der Container nicht, wird er mit `docker compose up -d` gestartet (Docker Desktop muss offen sein). Schlägt das fehl, läuft der Pull trotzdem durch, und es erscheint eine Warnung mit `[db]`.
+
+Manuell neu laden: `python sql/db_laden.py` (gleiche Logik wie Notebook 03, ohne Notebook).
+
+Git führt aus Sicherheitsgründen keine Hooks aus einem geklonten Repo aus, ohne dass man sie einschaltet. Schritt 5 ist darum pro Person und Rechner einmal nötig.
 
 ## Ordner
 
